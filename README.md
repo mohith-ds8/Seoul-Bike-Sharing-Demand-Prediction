@@ -1,5 +1,7 @@
 # **Seoul Bike sharing demand prediction:** <br>
 
+![seoul-bikes](https://user-images.githubusercontent.com/119489207/226161455-134563c3-f225-49c8-bb8e-47ce8252e8e6.jpg)
+
 **Business problem**: Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 First we import the necessary libraries and look at our data and its characteristics. We have a dataset of 8760 rows and 14 columns with no duplicate/missing data. Next we study the features thoroughly and the data it represents.
